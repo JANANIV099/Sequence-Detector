@@ -208,6 +208,8 @@ module sequence_detector_tb;
 endmodule
 ```
 # OUTPUT:
+![image](https://github.com/user-attachments/assets/adaf6209-b7f2-4f23-9af4-b22d34e93b12)
+
 
 
 
